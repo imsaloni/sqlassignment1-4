@@ -1,7 +1,7 @@
 
 
 
-Create Database SQLAssi
+Create Database sqlassignment
 
 Create Table Customer1
 (
